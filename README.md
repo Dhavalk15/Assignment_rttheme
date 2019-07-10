@@ -1,4 +1,4 @@
-<h1>WordPress Theme Assignment </h1>  <img src="https://i.ibb.co/dLjmzqP/Webp-net-resizeimage.png">
+<div display="inline"> <h1>WordPress Theme Assignment </h1>  <img src="https://i.ibb.co/dLjmzqP/Webp-net-resizeimage.png"> <div>
 
 <blockquote>
   <li>Custom Vertical Slider</li>
