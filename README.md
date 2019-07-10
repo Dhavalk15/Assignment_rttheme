@@ -3,6 +3,6 @@
 <blockquote>
   <li>Custom Vertical Slider</li>
   <li>Custom Widgets</li>
-  <li>Signle Page Theme</li>
+  <li>Single Page Theme</li>
   <li>Responsive</li>
 </blockquote>
