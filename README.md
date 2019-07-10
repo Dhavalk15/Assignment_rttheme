@@ -10,3 +10,4 @@
 
 <h1> Theme Demo :video_camera: </h1>
  
+ <img src="https://media.giphy.com/media/kC1rGBay7sCGqbuR5i/giphy.gif" alt="demo gif">
