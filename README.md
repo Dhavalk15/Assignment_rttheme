@@ -13,7 +13,7 @@
  <img src="https://media.giphy.com/media/kC1rGBay7sCGqbuR5i/giphy.gif" alt="demo gif">
  
  <h1>Use :point_right: </h1>
- <p>This theme is useful when you when you have requirements like above features </p>
+ <p>This theme is useful when you have requirements like above features </p>
  
  <h1>Author :bust_in_silhouette: </h1>
  <a href="https://profiles.wordpress.org/dhavalkasvala/">Dhaval Kasavala </a> - Wordpress Developer
