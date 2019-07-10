@@ -1,1 +1,1 @@
-WordPress Theme Assignment ![alt text](https://ibb.co/4YK15G8)
+WordPress Theme Assignment ![alt text](https://i.ibb.co/dLjmzqP/Webp-net-resizeimage.png)
