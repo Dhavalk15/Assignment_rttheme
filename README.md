@@ -8,4 +8,5 @@
 </blockquote>
 
 
-<h1> Theme Demo <img src="https://cdn0.iconfinder.com/data/icons/ui-essence/32/_1ui-512.png" height="100" width="100"> </h1>
+<h1 style="display:inline"> Theme Demo <img src="https://cdn0.iconfinder.com/data/icons/ui-essence/32/_1ui-512.png" height="100" width="100"> </h1>
+ 
