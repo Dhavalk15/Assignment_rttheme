@@ -204,7 +204,8 @@ class Social_Widget extends WP_Widget {
 
 	/**
 	 * Register widget with WordPress.
-`	 */
+	 */
+	
 	function __construct() {
 		parent::__construct(
 			'Social_Widget', // Base ID
@@ -347,7 +348,8 @@ class Posts_by_cat_Widget extends WP_Widget {
 
 	/**
 	 * Register widget with WordPress.
-`	 */
+	 */
+	
 	function __construct() {
 		parent::__construct(
 			'Posts_by_cat_Widget', // Base ID
